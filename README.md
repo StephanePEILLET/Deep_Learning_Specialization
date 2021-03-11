@@ -8,7 +8,7 @@ This repository contains notebooks of the Deep Learning Specialization offered b
 3. [Shallow neural networks](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
 4. [Deep Neural Networks](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
-### [Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+### [Course 2 - Improving DNN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
 1. Practical aspects of Deep Learning
          - [Initialization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
