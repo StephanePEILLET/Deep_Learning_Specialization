@@ -35,7 +35,12 @@ This repository contains notebooks of the Deep Learning Specialization offered b
 
 ### [Course 5 - Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 1. Recurrent Neural Networks
-         - 
-         - 
-3. [Natural Language Processing & Word Embeddings]
-4. [Sequence models & Attention mechanism]
+         - [RNN Step by Step](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
+         - [Character-Level Language Modeling](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Dinosaur%20Island%20--%20Character-level%20language%20model)
+         - [Jazz improvisatoin with LSTM](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Jazz%20improvisation%20with%20LSTM)
+2. Natural Language Processing & Word Embeddings
+         - [Emojify](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)
+         - [Word Vector Representation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Word%20Vector%20Representation)
+3. Sequence models & Attention mechanism
+         -[Machine Translation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+         -[Trigger Word Detection](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
