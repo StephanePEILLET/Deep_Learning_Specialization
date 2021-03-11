@@ -10,8 +10,8 @@ This repository contains notebooks of the Deep Learning Specialization offered b
 
 ### [Course 2 - Improving DNN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
-1. Practical aspects of Deep Learning
-         - [Initialization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+1. Practical aspects of Deep Learning  
+         * [Initialization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
          - [Regularization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
          - [Gradient Checking](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
 2. [Optimization Methods](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
