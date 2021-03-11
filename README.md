@@ -36,6 +36,6 @@ This repository contains notebooks of the Deep Learning Specialization offered b
 ### [Course 5 - Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 1. Recurrent Neural Networks
          - 
-         - (https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
-3. [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
-4. [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
+         - 
+3. [Natural Language Processing & Word Embeddings]
+4. [Sequence models & Attention mechanism]
