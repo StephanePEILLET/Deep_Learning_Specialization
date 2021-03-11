@@ -14,8 +14,8 @@ This repository contains notebooks of the Deep Learning Specialization offered b
          - [Initialization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)    
          - [Regularization](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)    
          - [Gradient Checking](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)    
-2. [Optimization Methods](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-3 [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+2. [Optimization Methods](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)  
+3. [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
 ### [Course 3 - Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 
@@ -36,11 +36,11 @@ This repository contains notebooks of the Deep Learning Specialization offered b
 ### [Course 5 - Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 1. Recurrent Neural Networks  
          - [RNN Step by Step](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)  
-         - [Character-Level Language Modeling](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Dinosaur%20Island%20--%20Character-level%20language%20model)  
-         - [Jazz improvisatoin with LSTM](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Jazz%20improvisation%20with%20LSTM)  
-2. Natural Language Processing & Word Embeddings
-         - [Emojify](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)  
-         - [Word Vector Representation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Word%20Vector%20Representation)  
-3. Sequence models & Attention mechanism
-         -[Machine Translation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)  
-         -[Trigger Word Detection](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)  
+         - [Character-Level Language Modeling](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Dinosaur%20Island%20--%20Character-level%20language%20model)    
+         - [Jazz improvisatoin with LSTM](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/1.%20Recurrent%20Neural%20Networks/Jazz%20improvisation%20with%20LSTM)    
+2. Natural Language Processing & Word Embeddings  
+         - [Emojify](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Emojify/Emojify%20-%20v2.ipynb)    
+         - [Word Vector Representation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/tree/main/Course%205%20-%20Sequence%20Models/2.%20Natural%20Language%20Processing%20%26%20Word%20Embeddings/Word%20Vector%20Representation)    
+3. Sequence models & Attention mechanism  
+         -[Machine Translation](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)    
+         -[Trigger Word Detection](https://github.com/StephanePEILLET/Deep_Learning_Specialization/blob/main/Course%205%20-%20Sequence%20Models/3.%20Sequence%20models%20%26%20Attention%20mechanism/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)    
